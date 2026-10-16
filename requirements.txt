@@ -1,0 +1,10 @@
+# Chronos-2 전용 환경 (기존 sciEVN 과 분리해서 새 환경에 설치하는 것을 권장)
+chronos-forecasting>=2.0
+torch>=2.2
+transformers>=4.41
+accelerate>=1.1
+peft>=0.18.1          # LoRA 파인튜닝용 (제로샷만 쓰면 없어도 됨)
+pandas>=2.0
+numpy
+openpyxl
+matplotlib            # 반응 곡선 그림 (선택)

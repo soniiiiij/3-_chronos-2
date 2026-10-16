@@ -1,0 +1,13 @@
+﻿사건,사건 수,model,정답이 q10 아래(하단 밖),정답이 q10~q90 안,q10 자체가 임계값 이하인 날(전체 983일 중),그중 실제 사건
+5일수익률<=-3%,109,M1_unconditional,94,15,983,109
+5일수익률<=-3%,109,M2_volscale,87,22,579,72
+5일수익률<=-3%,109,amazon_chronos-2|all|L512,102,7,206,44
+5일수익률<=-3%,109,amazon_chronos-2|full|L512,89,20,219,57
+5일수익률<=-3%,109,amazon_chronos-2|no_cov|L512,103,6,339,35
+5일수익률<=-3%,109,amazon_chronos-2|select|L512,92,17,240,62
+5일수익률<=-5%,42,M1_unconditional,42,0,0,0
+5일수익률<=-5%,42,M2_volscale,42,0,77,8
+5일수익률<=-5%,42,amazon_chronos-2|all|L512,42,0,22,7
+5일수익률<=-5%,42,amazon_chronos-2|full|L512,41,1,36,9
+5일수익률<=-5%,42,amazon_chronos-2|no_cov|L512,42,0,54,5
+5일수익률<=-5%,42,amazon_chronos-2|select|L512,41,1,42,9
