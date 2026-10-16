@@ -203,3 +203,4 @@ python src/audit.py                            # 날짜별 원자료·연도별�
 - **모의 예측기로 확인함**: `evaluate.py`, `compare.py`, `calibrate.py`, `predict_scenario.py`, `sweep.py(--dry)`의 전체 흐름.
 - **아직 실제 Chronos-2로 돌려 보지 못함**: `finetune.py`(검증 시계열을 `validation_inputs`로 넘기는 부분 포함)와 파인튜닝 모델 평가, `sweep.py`. 소스(chronos-forecasting v2.3.3.dev0)의 함수 시그니처를 읽고 맞췄지만, 처음 돌릴 때 오류가 나면 메시지를 그대로 알려 주세요.
 "# 3-_chronos-2" 
+"# 3-_chronos-2" 
